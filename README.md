@@ -10,3 +10,4 @@
 XxxIHeartHorusxxX/XxxIHeartHorusxxX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![terminal](https://github.com/user-attachments/assets/5c594577-c598-4303-8956-666707ef5cd7)
